@@ -1,0 +1,7 @@
+{
+    "workbench.editorAssociations": {
+        // "*.{bmp,ico,jpg,jpeg,png}": "luna.editor"
+        "*.{bmp,ico,jpg,jpeg,png}": "imagePreview.previewEditor"
+
+    }
+}
